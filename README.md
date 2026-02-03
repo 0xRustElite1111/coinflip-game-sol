@@ -221,7 +221,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact & Support
 
-- **Telegram**: [@u_known](https://t.me/u_known1111)
+- **Telegram**: [S.E.I](https://t.me/sei_dev)
 
 ## ⚠️ Disclaimer
 
